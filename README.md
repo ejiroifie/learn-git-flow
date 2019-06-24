@@ -10,6 +10,10 @@
 [] Type "git init" on command line. This is called initializing local repository as GIT repository.   
 [] Now go to page being shown right after clicking "create repository" button. It has clear instructions.    
 [] First add remote origin. Copy paste "git remote add origin...."    
-[] Add all files to staging. Type > git add .  
+[] Add all files to staging. Type > git add .   
+[] Specify commit message. For example, >git commit -m "first commit"  
+[] Push repository > git push -u origin master  
+[] check on Github.com repository if commit got pushed
+
 
 
